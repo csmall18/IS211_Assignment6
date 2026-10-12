@@ -1,4 +1,4 @@
-# Cameorn Small
+# Cameron Small
 # Week 6
 
 import conversions
